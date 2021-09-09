@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/text-tutor/static/js/main.2d71e658.chunk.js",
+    "main.js.map": "/text-tutor/static/js/main.2d71e658.chunk.js.map",
+    "runtime-main.js": "/text-tutor/static/js/runtime-main.e684098e.js",
+    "runtime-main.js.map": "/text-tutor/static/js/runtime-main.e684098e.js.map",
+    "static/js/2.1fb25fd1.chunk.js": "/text-tutor/static/js/2.1fb25fd1.chunk.js",
+    "static/js/2.1fb25fd1.chunk.js.map": "/text-tutor/static/js/2.1fb25fd1.chunk.js.map",
+    "index.html": "/text-tutor/index.html",
+    "static/js/2.1fb25fd1.chunk.js.LICENSE.txt": "/text-tutor/static/js/2.1fb25fd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e684098e.js",
+    "static/js/2.1fb25fd1.chunk.js",
+    "static/js/main.2d71e658.chunk.js"
+  ]
+}
